@@ -1,3 +1,9 @@
+## Stack
+
+Empty cpp stack to learn things in cpp during coding dojos.
+
+## Build steps
+
 #### Create new C++17 library project
 
 #### Install googletest 

@@ -3,7 +3,6 @@
 - googletest doc: https://github.com/google/googletest/blob/master/googletest/docs/primer.md
 
 todos:
-- create a zip of an empty kata
-- try before each way
-- try run for multiple value way
+- before each way
+- test with multiple value way
 - run tests from cmd line
